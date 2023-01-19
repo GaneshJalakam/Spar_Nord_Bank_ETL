@@ -53,7 +53,7 @@ Spar Nord Bank has also built a dimensional model datastore (ATM Data Mart) on t
 ![etl_architecture](https://user-images.githubusercontent.com/39402830/213459415-0f945247-e091-4551-b2ca-6131728107a2.png)
 
 ## Code Implementation & Documentations
-**Refer jupyter notebook and related documentations of all the data flow present in this repository.**
+**Refer PySpark jupyter notebook and related documentations of all the data flow present in this repository.**
 
 ## Contributors
 - [Ganesh Jalakam](https://github.com/GaneshJalakam)
