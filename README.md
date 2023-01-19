@@ -42,7 +42,7 @@ Also, the transaction amount field in the data set was added separately using a 
 Spar Nord Bank has also built a dimensional model datastore (ATM Data Mart) on this ATM transaction data to understand the ATM usage pattern. This exact schema(target schema) of this Data Mart will be provided to you for the sake of this project. Basically, this will be the schema according to which you will be creating tables in Redshift. 
 
 ## Problem Approach
-- Extracting the transactional data from a given MySQL RDS server to HDFS(EC2) instance using Sqoop.
+- Extracting the transactional data from a given MySQL RDS server to HDFS (EMR) instance using Sqoop.
 - Transforming the transactional data according to the given target schema using PySpark. 
 - This transformed data is to be loaded to an S3 bucket.
 - Creating the Redshift tables according to the given schema.
