@@ -52,6 +52,11 @@ Spar Nord Bank has also built a dimensional model datastore (ATM Data Mart) on t
 ## ETL Architecture
 ![etl_architecture](https://user-images.githubusercontent.com/39402830/213459415-0f945247-e091-4551-b2ca-6131728107a2.png)
 
+## Technology Stack
+- Apache Sqoop
+- Apache Spark - PySpark (SparkSQL)
+- AWS Services - RDS, EMR (Sqoop, Spark, Livy, Zookeeper, JupyterHub, Zeppelin applications installed on it), S3, Redshift, IAM, VPC
+
 ## Code Implementation & Documentations
 **Refer PySpark jupyter notebook and related documentations of all the data flow present in this repository.**
 
