@@ -54,8 +54,8 @@ Spar Nord Bank has also built a dimensional model datastore (ATM Data Mart) on t
 
 ## Technology Stack
 - Apache Sqoop
-- Apache Spark - PySpark (SparkSQL)
-- AWS Services - RDS, EMR (Sqoop, Spark, Livy, Zookeeper, JupyterHub, Zeppelin applications installed on it), S3, Redshift, IAM, VPC
+- Apache Spark (PySpark - SparkSQL)
+- AWS cloud - RDS, EMR (Sqoop, Spark, Livy, Zookeeper, JupyterHub, Zeppelin applications installed on it), S3, Redshift, IAM, VPC
 
 ## Code Implementation & Documentations
 **Refer PySpark jupyter notebook and related documentations of all the data flow present in this repository.**
